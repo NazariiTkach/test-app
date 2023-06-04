@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_app=self.webpackChunktest_app||[]).push([[940],{5940:function(e,s,t){t.r(s);var n=t(184);s.default=function(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)("h1",{children:"Error 404"}),(0,n.jsx)("p",{children:"Woops... Looks like this page doesn't exist!"})]})}}}]);
+//# sourceMappingURL=940.8b2f9ca7.chunk.js.map
