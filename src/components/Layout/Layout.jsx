@@ -3,6 +3,8 @@ import { Suspense } from 'react';
 import { Outlet } from 'react-router-dom';
 import { Oval } from 'react-loader-spinner';
 
+import { NavItem, NavList, NavigationLink, Header, Main } from './LayoutStyles';
+
 
 const Layout = () => {
   return (
