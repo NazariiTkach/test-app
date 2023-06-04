@@ -1,5 +1,18 @@
 import React, { useState, useEffect } from "react";
 
+import {
+  UserItem,
+  LogoImage,
+  BackgroundImage,
+  DecorationLine,
+  UserImage,
+  Text,
+  TextContainer,
+  Button,
+  ButtonActive,
+  DecorationCircle,
+  Avatar,
+} from "./UserCardStyled";
 
 
 import logo from "../../images/logo.png";
