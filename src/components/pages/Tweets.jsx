@@ -4,7 +4,12 @@ import { useLocation } from 'react-router-dom';
 
 import UserCard from '../UserCard/UserCard';
 
-
+import {
+  UsersList,
+  LoadMoreButton,
+  BackLink,
+  BackLinkText,
+} from './PagesStyled';
 
 const BASE_URL = 'https://6468e47ee99f0ba0a82f9a0d.mockapi.io/users';
 const USERS_PER_PAGE = 3;

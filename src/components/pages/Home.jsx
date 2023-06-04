@@ -1,6 +1,7 @@
 import React from "react";
 import background_image from "../../images/background_image.png";
 
+import { BackgroundImage, HomeSection, Title } from "./PagesStyled";
 
 const Home = () => {
   return (
